@@ -21,7 +21,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone <https://github.com/DeborahCampos2017/calculadora-react-typescript>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd bateria
+$ cd calculadora-react-typescript
 
 # Instale as dependências
 $ npm install
